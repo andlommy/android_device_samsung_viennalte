@@ -125,7 +125,7 @@ lib/libak8963c.so
 bin/ds_fmc_appd
 bin/efsks
 bin/ks
--lib/libril.so
+lib/libril.so
 lib/libsec-ril.so
 bin/qcks
 bin/qmuxd
