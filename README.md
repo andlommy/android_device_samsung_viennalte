@@ -24,7 +24,7 @@ cd cm16
 
   - Do repo init & sync
 
-repo init -u git://github.com/LineageOS/android.git -b cm-16.0
+repo init -u git://github.com/LineageOS/android.git -b lineage-16.0
 
   - Create .repo/local_manifests/roomservice.xml with the following content:
 
@@ -57,7 +57,7 @@ repo sync
 
 . build/envsetup.sh
 
-  - Build cm16
+  - Build lineageOS 16
 
 brunch viennalte
 
